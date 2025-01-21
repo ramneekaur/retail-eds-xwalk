@@ -30,5 +30,11 @@
 }
 
 .block.quote.bg-red{
-    background-color: #f10707;
+    background-color: #ee8686;
+}
+.block.quote.bg-blue{
+    background-color: #75c5e7;
+}
+.block.quote.bg-green{
+    background-color: #a8f0ac;
 }
